@@ -1,0 +1,11 @@
+.slider-image{
+    height: 500px!important;
+    object-fit: cover;
+}
+@media screen and (max-width:455px) {
+    h1{
+        font-size: 40px;
+        line-height: 60px;
+    }
+    
+}
